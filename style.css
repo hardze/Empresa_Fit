@@ -6,7 +6,7 @@
 }
 
 html{
-    height: 500vh;
+    height: 200vh;
 }
 
 .container{
@@ -14,8 +14,16 @@ html{
     margin: auto;
 }
 
+.logo{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 15px;
+    top: 5px;
+}
+
 i{
-    background-image: url(https://cdn-icons-png.flaticon.com/512/25/25694.png);
+    background-image: url(kkkkkkkkkkkkkkkkkkkkkkkk.jpg);
 }
 
 .flex{
@@ -34,17 +42,17 @@ header{
 }
 
 header.rolagem{
-    background-color: #00ff6a;
+    background-color: #526E91;
     padding: 20px 4%;
 }
 
 header.rolagem a, header.rolagem i{
-    color: rgb(70, 70, 146);
+    color: #526E91;
 }
 
 header i{
     font-size: 75px;
-    color: #000000;
+    color: #526E91;
 }
 
 header ul{
@@ -57,27 +65,17 @@ header ul li{
 }
 
 header ul li a{
-    color: #000000;
+    color: #334D63;
     text-decoration: none;
 }
 
 .banner{
     height: 100vh;
-    background-image: url(https://www.itaberabanoticias.com.br/wp-content/uploads/genio.png);
+    background-image: url(BANNER\ NUTRICORE.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-
     display: flex;
     align-items: center;
     justify-content: center;
-}
-
-.banner h1{
-    font-size: 4em;
-    color: blue;
-}
-
-.banner h1 span{
-    color:#00ff6a;
 }

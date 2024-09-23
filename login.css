@@ -210,6 +210,9 @@ input[type=text]:placeholder {
   -webkit-animation-delay: 0.4s;
   -moz-animation-delay: 0.4s;
   animation-delay: 0.4s;
+  width: 100px;
+  height: 100px;
+  position: center;
 }
 
 .fadeIn.second {

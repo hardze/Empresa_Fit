@@ -3,12 +3,20 @@
 /* BASIC */
 
 html {
-  background-color: #56baed;
+  background-image: url(BANNER\ NUTRICORE.png);
 }
 
 body {
   font-family: "Poppins", sans-serif;
   height: 100vh;
+}
+
+.logo{
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  left: 15px;
+  top: 5px;
 }
 
 a {

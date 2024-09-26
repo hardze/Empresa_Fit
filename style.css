@@ -23,7 +23,7 @@ html{
 }
 
 i{
-    background-image: url(kkkkkkkkkkkkkkkkkkkkkkkk.jpg);
+    background-image: url();
 }
 
 .flex{
@@ -47,12 +47,12 @@ header.rolagem{
 }
 
 header.rolagem a, header.rolagem i{
-    color: #526E91;
+    color: #ffff;
 }
 
 header i{
     font-size: 75px;
-    color: #526E91;
+    color: #ffff;
 }
 
 header ul{
@@ -65,7 +65,7 @@ header ul li{
 }
 
 header ul li a{
-    color: #334D63;
+    color: #ffff;
     text-decoration: none;
 }
 

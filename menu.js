@@ -1,3 +1,9 @@
+function logar(){
+
+    var login = document.getElementById('login').value;
+    var senha = document.getElementById('senha').value;
+}
+
 window.addEventListener("scroll", function(){
     let header = document.querySelector('#header')
     header.classList.toggle('rolagem', window.scrollY > 150)

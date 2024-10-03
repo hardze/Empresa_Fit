@@ -270,7 +270,9 @@ input[type=text]:placeholder {
 } 
 
 #icon {
-  width:60%;
+  width: 22.5%;
+  position: absolute;
+  left: 175px;
 }
 
 * {
